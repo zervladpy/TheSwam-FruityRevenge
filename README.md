@@ -34,7 +34,7 @@ La entrega constará de tres partes o bloques diferenciados: diseño, implementa
 
 Realización de un documento base de diseño que sirva como **plantilla** del juego a desarrollar. Ayuda a definir el alcance y establece las **líneas principales** del mismo, de forma que establezca una **guía** de actuación común para todo el equipo de desarrollo.
 
-Se tratará de un pequeño [documento](GDD.md) que recoja los aspectos principales del *gameplay*, mecánicas y arte del juego. 
+Se tratará de un pequeño [documento](1.Disenho/GDD.md) que recoja los aspectos principales del *gameplay*, mecánicas y arte del juego. 
 
 ### Implementación
 
