@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c7e474f1acbff2488f6450e38756d8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - SpawnPoint: {instanceID: 0}
+  - DefaultPlayer: {fileID: 5800733948310537204, guid: cf3f68e533e3e0b428d177a2cbe995f6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

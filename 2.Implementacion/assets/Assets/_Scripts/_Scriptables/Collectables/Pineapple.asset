@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7599d0cc628b0634292d319970fe0353, type: 3}
+  m_Name: Pineapple
+  m_EditorClassIdentifier: 
+  idle: {fileID: 837517196756356485, guid: 131e485692e27e84c86170dad18cda85, type: 3}
+  animationController: {fileID: 9100000, guid: d291d5c97b5cffa48b91676ddfcb9682, type: 2}
+  points: 10
